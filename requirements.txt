@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+openai
+google-genai
+scikit-learn
+prophet
+pmdarima
+openpyxl
